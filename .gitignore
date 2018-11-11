@@ -23,3 +23,6 @@ build.xml
 build/
 nbproject/
 nb-configuration.xml
+
+# Mac OS
+.DS_Store
