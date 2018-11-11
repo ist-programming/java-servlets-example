@@ -1,0 +1,11 @@
+<taglib>
+   <tlib-version>1.0</tlib-version>
+   <jsp-version>2.0</jsp-version>
+   <short-name>Date and Time Library</short-name>
+   
+   <tag>
+      <name>time</name>
+      <tag-class>info.istamendil.blog.tags.CurrentTimeTag</tag-class>
+      <body-content>empty</body-content>
+   </tag>
+</taglib>
